@@ -1,4 +1,0 @@
-Phonegap
-========
-
-App in development
